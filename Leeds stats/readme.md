@@ -5,3 +5,4 @@ El programa toma las estadísticas de todos los jugadores del equipo de futbol L
 Utilicé las librerías BeautifulSoup para tomar los datos de la Premier League y Pandas para generar el archivo .csv
 
 Luego, subí una Jupyter notebook que analiza las tablas generadas por el programa. Allí visualizo algunos datos como la altura según posición o las asistencias por posición.
+Para ello utilizo Pandas y Matploplib
